@@ -1,0 +1,3 @@
+sales_system/bin
+sales_system/obj
+.vs
